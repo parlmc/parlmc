@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parlmc
 - 👀 I’m interested in learning and developing code for design, CAM and AI
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: basically, saerch for my @parlmc all over the internet
+- 📫 How to reach me: basically, search for my @parlmc all over the internet
 - 😄 Pronouns: he-him
 - ⚡: Two fish are in a tank when one turns to the other and says, "Do you know how to drive this thing?  
 
